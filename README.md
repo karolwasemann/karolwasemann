@@ -1,4 +1,6 @@
-### Hi I'm Karol 
+# Hi I'm Karol
+
+## 🌱 I’m currently learning Web Development 
 
 <!--
 **karolwasemann/karolwasemann** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
