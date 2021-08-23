@@ -1,6 +1,20 @@
-# Hi I'm Karol
+# Hi I’m Karol ✋
 
-## 🌱 I’m currently learning Web Development 
+    🏠 I live in Berlin
+
+    💻 I’m currently learning Web Development 
+
+    📚 & 🚴‍♂️ In my free time I like to read and ride my bike 
+        
+    🧐 Check out my projects
+
+
+
+
+
+
+
+
 
 <!--
 **karolwasemann/karolwasemann** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
