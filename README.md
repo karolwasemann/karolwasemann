@@ -1,14 +1,16 @@
 # Hi I’m Karol ✋
 
-    🏠 I live in Berlin
+-   🏠 I live in Berlin
 
-    💻 I’m currently learning Web Development 
-
-    📚 & 🚴‍♂️ In my free time I like to read and ride my bike 
+-   💻 I’m currently learning Web Development 
+    
+-   📚 & 🚴‍♂️ In my free time I like to read and ride my bike 
         
-    🧐 Check out my projects
+-   🧐 Check out my projects
 
-    ❓ If you have any questions, please [contact me](https://karolwasemann.github.io/mp/)
+-   ❓ If you have any questions, please [contact me](https://karolwasemann.github.io/mp/#)
+
+ 
 
 
 
