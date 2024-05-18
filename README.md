@@ -2,18 +2,13 @@
 
 -   🏠 I live in Berlin
 
--   💻 I’m currently learning Web Development 
+-   💻 I’m a Software Developer
     
--   📚 & 🚴‍♂️ In my free time I like to read and ride my bike 
+-   🚴‍♂️ In my free time I like to ride my bike 
         
 -   🧐 Check out my projects
-
--   ❓ If you have any questions, please [contact me](https://karolwasemann.github.io/mp/#)
-
- 
-
-
-
+      
+- 🔭 I’m currently working on Bark Buddy App and Pocket Guard
 
 
 
