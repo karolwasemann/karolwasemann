@@ -8,7 +8,7 @@
         
 -   🧐 Check out my projects
       
-- 🔭 I’m currently working on the Bark Buddy App and Pocket Guard
+- 🔭 I’m currently working on the Sieacher and Bark Buddy App 
 
 
 
